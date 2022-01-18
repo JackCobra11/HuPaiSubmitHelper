@@ -1,5 +1,7 @@
 # 沪牌回车键报价确认助手
 
+预祝大家早日拍上沪牌
+
 ## Requirements
 PyAutoGUI\
 keyboard\
