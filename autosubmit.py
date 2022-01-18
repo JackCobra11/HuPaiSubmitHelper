@@ -1,3 +1,6 @@
+# Created by COBRA11
+# 沪牌回车键确认报价助手
+
 import pyautogui as auto
 import keyboard
 import time
