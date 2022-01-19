@@ -7,13 +7,15 @@ import time
 from pymouse.windows import PyMouse
 
 OPERATION_DELAY = 0.2 # 操作延时
-submit_pos = (1070,790) # 默认确认键位置
+x, y = (1070,790) # 默认确认键位置
 
 def wait_for_pos():
     print("点击回车确认当前鼠标位置为确认键坐标：")
     keyboard.wait('enter')  # 等待输入回车
-    print(PyMouse().position())
+    pos_now = PyMouse().position()
+    print(pos_now)
     time.sleep(OPERATION_DELAY)
+    return pos_now
 
 def Submit():
     print("Please check the *Submit_Button* postion!")
@@ -26,7 +28,6 @@ def Submit():
         time.sleep(OPERATION_DELAY)
 
 if __name__ == "__main__":
-    wait_for_pos()
-    x, y = PyMouse().position()
+    x, y = wait_for_pos()
     Submit()
 
