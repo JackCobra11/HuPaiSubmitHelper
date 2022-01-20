@@ -1,6 +1,8 @@
 # 沪牌回车键报价确认助手
 
-预祝大家早日拍上沪牌
+预祝大家早日拍上沪牌\
+enter_submit.py 单按键辅助\
+BidHelper.py 多按键辅助
 
 ## Requirements
 PyAutoGUI\
