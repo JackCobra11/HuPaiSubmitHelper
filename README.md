@@ -1,5 +1,10 @@
 # 沪牌回车键报价确认助手
 
+## 2022.4.17 更新release
+打包为exe\
+可直接下载运行[V1.0版本](https://github.com/JackCobra11/HuPaiSubmitHelper/releases/download/%E6%B2%AA%E7%89%8C%E6%8B%8D%E5%8D%96%E5%87%BA%E4%BB%B7%E5%8A%A9%E6%89%8B/V1.0.exe)
+
+
 预祝大家早日拍上沪牌\
 enter_submit.py 单按键辅助\
 BidHelper.py 多按键辅助
