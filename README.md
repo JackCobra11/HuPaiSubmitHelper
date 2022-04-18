@@ -53,3 +53,8 @@ ModuleNotFoundError: No module named 'pyHook'
 修改为       import pythoncom
             import pymouse_pyhook3 as pyHook
 ```
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/JackCobra11/HuPaiSubmitHelper.svg)](https://starchart.cc/JackCobra11/HuPaiSubmitHelper)
