@@ -7,7 +7,7 @@
 
 ## 2022.4.23 更新 拍中实例
 <div align="center">
-<img src=IMG_20220423_125803.jpg width=60%/>
+<img src=IMG_20220423_125803.jpg width=40%/>
 </div>
 
 预祝大家早日拍上沪牌\
